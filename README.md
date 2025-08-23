@@ -6,8 +6,6 @@ A modern, responsive portfolio website showcasing Muhammad Sohail's work as a .N
 
 Visit the live portfolio: [https://sohail7739.github.io/CodeWithSohail](https://sohail7739.github.io/CodeWithSohail)
 
-🔥 **Portfolio is now live!** 🔥
-
 ## ✨ Features
 
 - **Responsive Design** - Works perfectly on desktop, tablet, and mobile devices
