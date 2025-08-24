@@ -131,3 +131,5 @@ Feel free to fork this project and customize it for your own portfolio!
 ---
 
 **Built with ❤️ by Muhammad Sohail**
+
+*Portfolio configured for GitHub Pages deployment*
